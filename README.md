@@ -26,7 +26,8 @@ https://www1457.ff-03.com/token=GZtUDAKvdpHi53OgOIGqOw/1631825234/187.40.0.0/119
 https://www227.ff-01.com/token=vAc_t5o70VipZns0gxXEfQ/1631829591/187.40.0.0/78/d/96/a832ac013db7d7107b7811de387f196d-720p.mp4
 
 
-
+#EXTINF:-1tvg-logo="https://heshero.com/wp-content/uploads/2021/06/Conjuring-POSTER.jpg"group-title="TERROR", INVOCAÇÃO DO MAL 3 A ORDEM DO DEMÔNIO
+https://www647.ff-02.com/token=6ftjQBrWdU4D-YWdL0uqIg/1631837802/187.40.0.0/172/f/cc/20f8528adcc9a051588a461d41a78ccf-1080p.mp4
 
 
 
