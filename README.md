@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1tvg-logo="https://image.tmdb.org/t/p/w342/xeItgLK9qcafxbd8kYgv7XnMEog.jpg"group-title="MARVEL 
-E DC" ,Shang-Chi 
+#EXTINF:-1tvg-logo="https://image.tmdb.org/t/p/w342/xeItgLK9qcafxbd8kYgv7XnMEog.jpg"group-title="MARVEL E DC",Shang-Chi 
+ https://video.wixstatic.com/video/de03b6_e4f3a7b740904e68ab4c6c46c4b7e5fd/720p/mp4/file.mp4
 
-https://video.wixstatic.com/video/de03b6_e4f3a7b740904e68ab4c6c46c4b7e5fd/720p/mp4/file.mp4
+
 
 
 #EXTINF:-1tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/20/03/09/15/51/4538015.jpg"groupltitle="MARVEL E DC",VIÚVA NEGRA
-
-
 https://video.wixstatic.com/video/de03b6_3db159fe431d4abdbb8ad7a1edc69b63/480p/mp4/file.mp4
+
+
 
 
 
