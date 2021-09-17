@@ -37,7 +37,7 @@ https://www1441.ff-03.com/token=1GWoedZqK_VyZLrw-EEEyg/1631893649/187.40.0.0/2/1
 #EXTINF:-1tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/17/02/20239889.jpg"group-title="TERROR",A Hora do Espanto (1985)
 https://www982.ff-02.com/token=FgeLkpLn2zeSMhvCvqAr2A/1631911392/187.40.0.0/144/8/e7/ecde543adaf0a2a35f093b11ba842e78-720p.mp4
 
-#EXTINF:-1tvg-logo="https://bocadoinferno.com.br/wp-content/uploads/2013/12/A-Hora-do-Espanto-2-1988-4.jpg"group-title="TERROR",A Hora do Espanto2(1988)
+#EXTINF:-1tvg-logo="https://bocadoinferno.com.br/wp-content/uploads/2013/12/A-Hora-do-Espanto-2-1988-4.jpg"group-title="TERROR",A Hora do Espanto2
 https://www1916.ff-04.com/token=B0yCaHNQP2drFJz2JgCp5g/1631916541/187.40.0.0/144/3/b2/7552e8f4c0b42872c69ae715b296cb23-720p.mp4
 
 
