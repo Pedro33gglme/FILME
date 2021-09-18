@@ -33,7 +33,7 @@ https://www647.ff-02.com/token=6ftjQBrWdU4D-YWdL0uqIg/1631837802/187.40.0.0/172/
 
 
 #EXTINF:-1tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg3NmUwYjctMmIzYS00ZTNiLTlhNTYtMWMxNzE5YWIzNmQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY600_CR2"group-title="ANIMAÇÃO",Space Jam: Um Novo Legado
-https://www1441.ff-03.com/token=1GWoedZqK_VyZLrw-EEEyg/1631893649/187.40.0.0/2/1/68/124a4eecdb1571dc2e6b70b5e0d0f681-1080p.mp4
+https://www1441.ff-03.com/token=GMMdjKfqTCdtkCK8P0GvHw/1631993626/187.40.0.0/2/1/68/124a4eecdb1571dc2e6b70b5e0d0f681-1080p.mp4
 
 #EXTINF:-1tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/17/02/20239889.jpg"group-title="TERROR",A Hora do Espanto (1985)
 https://www982.ff-02.com/token=FgeLkpLn2zeSMhvCvqAr2A/1631911392/187.40.0.0/144/8/e7/ecde543adaf0a2a35f093b11ba842e78-720p.mp4
