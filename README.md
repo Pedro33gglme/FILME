@@ -45,4 +45,7 @@ https://www1916.ff-04.com/token=B0yCaHNQP2drFJz2JgCp5g/1631916541/187.40.0.0/144
 
 https://2371755320.tapecontent.net/radosgw/wkQ0vGlZ6VFjMq/GCHAcHSkmyOAWPcTNfCL2WXsEsa-b-P8M71Id7eu3ZFObFe2jYJIFncBOJBfrV1YiLzVJS1DpjqigLSnFUVmKQHdU3GwgD2dLd-iW6b81nukeUfSRwOE7Vs9QXh9JXgZHrTUsmxZsGxkXh3DRr55On0IKDuGUDEzn7ralpq2T0BSjQOMiCyiXVe5HEJqOzCErBStVcy9oa7soMLxqLMwzj_GFrmgwGMWjmHk35Ns1u48d8gAh-9MG9cFeWvfSmo9OzCOF1nZtgmR8dZ4WmrydsxSee1LNdFx1By8y5OQu8tX5ikAYwmosDwJdI2U7UuNGqerPmGqmDYLbKVFG5dDzLnTH-GBmsw7mzm1PQ/A.Hora.do.Espanto.2011.BluRay.720p.DUBLADO-%5BCINETERROR.ORG%5D.mkv.mp4?stream=1
 
+#EXTINF:-1tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/17/57/20240024.jpg"group-title="TERROR",A Hora do Espanto2(2013)
+https://www1051.ff-03.com/token=urhzh2yfxaWWmTwm8CLiQg/1631949015/187.40.0.0/136/a/db/1701e7f5f0b55eb5df8dfabb76f8adba-720p.mp4
+
 
