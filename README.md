@@ -17,7 +17,7 @@ https://video.wixstatic.com/video/de03b6_3db159fe431d4abdbb8ad7a1edc69b63/480p/m
 
 
 #EXTINF:-1tvg-logo="https://image.tmdb.org/t/p/w185/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg"group-title="TERROR" , INVOCAÇÃO DO MAL
-www884.ff-02.com/token=xLKsWPAK2FCm2brkrhmyvQ/1631994245/187.40.0.0/110/c/ca/141b6436efe1aeb6aa3fe000eb09bcac-720p.mp4
+https://2448424673.tapecontent.net/radosgw/O6JwL0O94ASz0e/lD_w_-yjeRnX8WHK8FZyrvPsRuEohr42xe-Y6JssYnwaZqREfYeVV74AEmOu-pY-ELFbPg64IX94h-5xA-tpHzFtSsSdYjgOO0OnOSFs3siafkDHX4_WJ1HSlBGqsuQPol8Hej3lXTJ-zBQ_jB4dd70ugMawVdK5sZwd40NUm9s-z8yewWIxrHg08wTK8UHKUAuOHcVySa2bCCEFECeETwQ1rrbOyTSHG74Y6K-89kU8miDkD5Auzw-NLfJ-dyXtDwc7U4lv_iJ7PCmHmXcuHBzsZ0gUIwRPbVnxgycyHfqq8AsPcDbp0yXkGhg/Invoca%C3%A7%C3%A3o+Do+Mal+%282013%29.mp4?stream=1
 
 
 
